@@ -11,7 +11,7 @@
 main{
     width: 1120px;
     height: 588px;
-    margin: 88px 80px;
+   
     
 }
 
@@ -29,29 +29,28 @@ img{
 .descricao{
     text-align: center;
     font-size: 16px;
-    margin-bottom: 40px;
+    
 }
 
 h1{
     font-size: 36px;
-    margin-top: 8px;
+    
 }
 
 .amantes{
-    margin-top: 64px;
+    
 }
 
 h2{
-    margin-top: -15px;
     font-size: 32px;
 }
 
 h2 + p{
-    margin-top: 0px;
+    
 }
 
 h3{
     font-size: 28px;
-    margin-bottom: -10px;
+    
 }
 
